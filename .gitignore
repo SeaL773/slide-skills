@@ -1,0 +1,19 @@
+*.mp4
+*.mkv
+*.flv
+*.webm
+*.m4a
+*.txt
+!skills/**/*.md
+.bili_cookies.txt
+*.cookies
+.env
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Per-user notes
+notes/
+scratch/
